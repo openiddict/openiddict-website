@@ -11,12 +11,16 @@ hero:
     alt: OpenID Connect logo
   actions:
     - theme: brand
-      text: Download from NuGet.org
-      link: https://www.nuget.org/profiles/openiddict
+      text: Get started
+      link: https://documentation.openiddict.com/guides/getting-started.html
 
     - theme: alt
-      text: Documentation
+      text: Read the documentation
       link: https://documentation.openiddict.com/
+
+    - theme: alt
+      text: Download from NuGet.org
+      link: https://www.nuget.org/profiles/openiddict
 
 features:
   - title: Feature complete
