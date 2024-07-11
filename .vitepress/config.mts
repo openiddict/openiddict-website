@@ -18,6 +18,7 @@ export default defineConfig({
     ],
 
     externalLinkIcon: true,
+    logo: '/logo.png',
 
     editLink: {
       pattern: 'https://github.com/openiddict/openiddict-website/edit/dev/:path',
