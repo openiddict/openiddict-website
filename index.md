@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Get started
-      link: https://documentation.openiddict.com/guides/getting-started.html
+      link: https://documentation.openiddict.com/guides/getting-started/
 
     - theme: alt
       text: Read the documentation
