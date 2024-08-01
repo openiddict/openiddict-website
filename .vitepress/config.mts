@@ -4,6 +4,7 @@ import { defineConfig } from "vitepress"
 export default defineConfig({
   title: "OpenIddict",
   description: "OpenIddict website",
+  cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
