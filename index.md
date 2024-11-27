@@ -29,7 +29,7 @@ features:
       To cover most scenarios, OpenIddict offers a server stack, a client stack
       and a validation stack that you can use independently... or together.
 
-  - title: Usuable in most .NET applications
+  - title: Usable in most .NET applications
     icon: 🌐
     details: |
       The server and validation stacks can be used in any ASP.NET Core 2.1+
