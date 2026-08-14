@@ -11,7 +11,9 @@ export default defineConfig({
       { text: "Home", link: "/" },
       { text: "Documentation", link: "https://documentation.openiddict.com/" },
       { text: "Samples", link: "https://github.com/openiddict/openiddict-samples" },
-      { text: "Changelog", link: "https://github.com/openiddict/openiddict-core/releases" }
+      { text: "Changelog", link: "https://github.com/openiddict/openiddict-core/releases" },
+      { text: "Community", link: "https://app.gitter.im/#/room/#openiddict_openiddict-core:gitter.im" },
+      { text: "Support", link: "/support" }
     ],
 
     socialLinks: [
